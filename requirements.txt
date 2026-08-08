@@ -1,0 +1,43 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+pydeck>=0.8.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Email and notifications
+smtplib>=0.0.1  # Built-in Python module
+
+# PDF generation
+reportlab>=4.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Additional utilities
+uuid>=1.30  # Built-in Python module
+datetime  # Built-in Python module
+math  # Built-in Python module
+hashlib  # Built-in Python module
+secrets  # Built-in Python module
+string  # Built-in Python module
+logging  # Built-in Python module
+re  # Built-in Python module
+threading  # Built-in Python module
+time  # Built-in Python module
+html  # Built-in Python module
+os  # Built-in Python module
+typing  # Built-in Python module
+dataclasses  # Built-in Python module
+contextlib  # Built-in Python module
+json  # Built-in Python module
+io  # Built-in Python module
+
+# Optional but recommended for enhanced functionality
+pytest>=7.0.0  # For testing
+black>=23.0.0  # Code formatting
+flake8>=6.0.0  # Code linting
+pre-commit>=3.0.0  # Git hooks
